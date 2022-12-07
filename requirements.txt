@@ -1,0 +1,12 @@
+pandas
+matplotlib
+lxml
+pytrends
+seaborn
+numpy
+ipython
+jupyter
+xlrd
+twitter-scraper
+markovify
+folium
